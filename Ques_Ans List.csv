@@ -1,0 +1,109 @@
+Intent,User Question,Chatbot Answer
+create_account,How do I open a new bank account?,You can open a new account online or at a branch. Which option would you prefer?
+create_account,What are the steps to create a bank account?,"The first step is to choose the account type you want to open. Once you decide, you can start the application process."
+create_account_online,I want to do it online.,"Great! To start, please visit our website and click on the 'Open an Account' button. Have you found the link?"
+create_account_in_person,Can I open a bank account at a branch?,"Yes, you can. You will need to bring a valid photo ID and proof of address. Do you have these documents ready?"
+create_account_documents,What documents do I need to open a bank account?,You'll need a government-issued photo ID (like a driver's license or passport) and proof of your current address (like a utility bill or lease agreement).
+update_address,I need to change my address.,You can update your address by logging into your account online. Go to 'Profile' or 'Account Settings' and find the 'Edit Address' section. Can you log in now?
+update_address,How do I change my mailing address?,"To update your address, please log into your account and navigate to 'My Profile'. You'll see an option to edit your contact information."
+update_phone_number,I need to update my phone number.,"To update your phone number, please log in to your online account and visit the 'Contact Information' section. You'll be asked to verify your identity."
+update_email,How do I change my email address?,"To change your email address, log in to your account, go to 'Account Settings', and update your email. You will receive a verification email to confirm the change."
+password_reset,How do I reset my password?,"To reset your password, please go to the login page and click on the 'Forgot Password?' link. Have you found it?"
+password_reset_next,What should I do after clicking 'Forgot Password'?,You'll be prompted to enter your username or registered email address. A password reset link will then be sent to your email.
+username_recovery,I forgot my username.,"To recover your username, click the 'Forgot Username' link on the login page and follow the instructions to verify your identity."
+account_locked,My account is locked.,"To unlock your account, please click the 'Unlock Account' link on the login screen. You may need to answer some security questions."
+lost_card,My debit card is missing.,"I'm sorry to hear that. To protect your account, you should immediately report the card as lost or stolen. Would you like me to guide you through that process?"
+lost_card,I think my credit card was stolen.,"For your security, you must report this immediately. I can help you freeze or cancel your card. What would you like to do?"
+card_activation,How do I activate my new card?,"You can activate your new card by calling the number on the sticker, or by logging into your online account and selecting 'Activate Card'."
+pin_reset,I need to reset my PIN.,You can reset your PIN at any of our ATM locations or by calling the number on the back of your card.
+check_balance,What's my current balance?,"To view your balance, please log in to your account. Your current balance will be displayed on the main dashboard."
+check_balance,Can I check my balance on my phone?,"Yes, you can check your balance using our mobile app. Please log in, and your balance will be on the home screen."
+transaction_history,How can I see my recent transactions?,You can see your recent transactions by logging into your online account and clicking on 'Transaction History'.
+statement_request,How do I get a copy of my statement?,You can download and print your statements from the 'Statements' section of your online account. You can also request a mailed copy.
+report_fraud,I see a fraudulent charge on my account.,"To report a fraudulent charge, please call our fraud department immediately at [Phone Number]. They will guide you through the next steps."
+apply_for_loan,How can I apply for a loan?,You can apply for a loan on our website under the 'Loans' section. You'll need to fill out an application and provide financial information.
+close_account,How do I close my bank account?,"To close an account, you will need to fill out an account closure request form. This can be done at any of our branches."
+interest_rates,What are your current interest rates for savings accounts?,Our current interest rates vary by account type. You can find the most up-to-date rates on our website under the 'Rates' section.
+atm_finder,Where is the nearest ATM?,"I can help with that! Please provide your current city or ZIP code, and I'll find the closest ATM for you."
+service_hours,What are your branch hours?,"Our standard branch hours are Monday to Friday, 9:00 AM to 5:00 PM. Hours may vary by location. What is your city?"
+loan_status,How can I check my loan application status?,You can check your loan application status by logging into your online account and navigating to the 'Loan Center'.
+fee_inquiry,Why was I charged a fee?,"To understand a specific fee, please log in and review the transaction details. If you still have questions, you can contact a representative."
+overdraft_protection,Do you offer overdraft protection?,"Yes, we do. Overdraft protection can be added to your account. To enroll, please contact our customer service team or visit a branch."
+check_deposit,How can I deposit a check?,"You can deposit a check using our mobile app by taking a picture of the front and back of the check, or by visiting any of our ATMs or branches."
+new_account_benefits,What are the benefits of a new checking account?,"Our checking accounts offer benefits like no monthly fees, access to our mobile banking app, and a debit card with no ATM fees."
+apply_for_credit_card,How do I get a credit card from you?,You can apply for a credit card through our website. Go to the 'Credit Cards' section and choose the card that best fits your needs.
+mobile_app_features,What can I do with your mobile app?,"Our mobile app allows you to check balances, transfer funds, pay bills, deposit checks, and find nearby ATMs."
+international_payments,Can I make an international payment?,"Yes, you can. To make an international payment, log in to your account, go to 'Transfers', and select 'International Transfer'."
+security_tips,What should I do to keep my account secure?,"Always use a strong password, don't share your login information, and regularly check your account for any suspicious activity."
+atm_deposit,Can I deposit cash at an ATM?,"Yes, you can deposit cash and checks at any of our smart ATMs."
+atm_withdrawl,What is the withdrawal limit at an ATM?,"The standard daily withdrawal limit is $500, but this can be adjusted upon request."
+travel_notification,I'm traveling. Do I need to notify you?,"Yes, to ensure your card works while you're away, please let us know your travel dates and destinations by logging into your account or calling us."
+mobile_deposit_limit,What is the mobile deposit limit?,"The standard daily mobile deposit limit is $2,000. You can view your specific limit in the app."
+atm_fee_inquiry,Do you charge ATM fees?,We do not charge fees for using our ATMs. Fees may apply if you use an out-of-network ATM.
+checkbook_order,How can I order a new checkbook?,You can order a new checkbook by logging into your online account or by calling customer service.
+zelle_setup,How do I set up Zelle?,"To set up Zelle, open our mobile app, go to 'Transfers & Payments', and follow the on-screen instructions to enroll your email or phone number."
+account_types,What are the different types of accounts you offer?,"We offer checking accounts, savings accounts, money market accounts, and certificates of deposit (CDs)."
+account_fees,Are there any monthly fees for your accounts?,Our basic checking and savings accounts have no monthly fees if you meet the minimum balance or direct deposit requirements.
+transfer_funds,How do I transfer money between my accounts?,"Log in to your online banking or mobile app, go to 'Transfers', and select the accounts you want to transfer funds between."
+bill_pay,Can I pay my bills through your service?,"Yes. To set up bill pay, log in to your account, go to the 'Bill Pay' section, and add your payees."
+stop_payment,How do I place a stop payment on a check?,"To place a stop payment, please contact our customer service line or visit a branch. You'll need the check number and amount."
+credit_score,Can I check my credit score with you?,"Yes, we offer free access to your credit score through your online account. Just log in and navigate to 'Credit Score'."
+merchant_services,Do you offer services for businesses?,"Yes, we provide a full range of business services, including business checking accounts, loans, and merchant services."
+apply_for_mortgage,I want to apply for a mortgage.,"To apply for a mortgage, you can visit our website and fill out the online application, or schedule an appointment with a loan officer."
+lost_passbook,I lost my passbook. What should I do?,Please visit your local branch to report a lost passbook. A representative will help you get a replacement.
+report_lost_card,I lost my card.,"For your security, please contact us immediately to report the card as lost. You can reach our 24/7 support line at [Phone Number]."
+transaction_dispute,I want to dispute a charge.,"To dispute a transaction, please log in to your account and go to the 'Disputes' section, or call our customer service line."
+check_order,How do I reorder checks?,You can easily reorder checks through your online banking portal or by calling our customer service.
+branch_hours,When are your branches open?,Our branches are open from 9:00 a.m. to 5:00 p.m. Monday through Friday. Some locations may have different hours.
+savings_interest,What is the interest rate on my savings account?,"To find the current interest rate, please log in to your account and view the details for your savings account."
+close_account,How can I close my account?,You must visit a branch in person to close your account. Please bring your valid ID with you.
+overdraft_fee,How much is the overdraft fee?,The standard overdraft fee is $35 per transaction.
+loan_payment,How do I make a loan payment?,"You can make a loan payment through your online banking account, by visiting a branch, or by mail."
+atm_locator,Find a nearby ATM.,"To find the nearest ATM, please provide your current address or ZIP code."
+bank_statement,I need my bank statement.,You can access and download your bank statements from your online account under the 'Statements' tab.
+balance_transfer,Can I transfer a credit card balance?,"Yes, we offer balance transfer options. You can apply for a balance transfer on our website or by contacting a representative."
+wire_transfer,How do I send a wire transfer?,You can initiate a wire transfer by visiting one of our branches. You will need the recipient's bank information and account number.
+account_fees,What are the fees on my account?,"To review all fees on your account, please log in to your online banking and go to the 'Account Details' section."
+zelle_transfer_limit,What is the Zelle transfer limit?,"The daily transfer limit for Zelle is $1,000."
+checkbook_status,Where is my new checkbook?,"If you recently ordered a checkbook, it should arrive within 7-10 business days."
+card_limit,What is my debit card limit?,"The daily debit card purchase limit is $2,500. You can request a temporary increase."
+transaction_fee,Why did I get a transaction fee?,"Certain transactions, such as using an out-of-network ATM, may incur a fee. You can find details in your transaction history."
+deposit_limit,Is there a daily deposit limit?,There is no limit for deposits made in person or at a bank ATM. Mobile deposits may have a daily limit.
+account_upgrade,Can I upgrade my checking account?,"Yes, you can upgrade your account by logging in to your online banking or by visiting a branch."
+credit_card_application,I want to apply for a credit card.,"To apply for a credit card, please visit the 'Credit Cards' section of our website and fill out the online application."
+business_banking,Do you offer business banking services?,"Yes, we offer a range of business services, including checking accounts, lines of credit, and merchant services."
+loan_application,How can I apply for a loan?,You can apply for a loan by visiting our website or by scheduling an appointment with a loan officer at a local branch.
+account_statement,Can I get my account statement by mail?,"Yes, you can. Please contact our customer service to request that your statements be mailed to you."
+lost_passbook,I lost my passbook.,"To get a new passbook, you must visit a branch and fill out a request form. Please bring a valid ID."
+report_fraudulent_activity,I see something suspicious on my account.,Please call our fraud prevention line immediately at [Phone Number] to report any suspicious activity.
+check_balance,How can I check my account balance?,"You can check your account balance 24/7 through our mobile app, online banking, or by calling our automated phone system."
+account_history,I need to see my past transactions.,You can view a complete history of your transactions by logging in to your online account and selecting 'Account History'.
+international_transfer_fee,What are the fees for international transfers?,Fees for international transfers vary by country and amount. You can see the exact fee before confirming the transfer online.
+new_customer,"I'm a new customer, where do I start?","Welcome! To get started, you can either open an account online or visit one of our branches. What would you like to do?"
+atm_cash_limit,Is there a limit on how much cash I can get from an ATM?,"Yes, the daily ATM withdrawal limit is typically $500, but this can be adjusted for a fee."
+credit_card_benefits,What are the benefits of your credit cards?,"Our credit cards offer benefits such as cash back, travel rewards, and purchase protection."
+travel_notification,"I'm going on vacation, should I let you know?","Yes, please notify us of your travel plans to ensure your card works without interruption. You can submit a travel notice in your online account."
+mobile_deposit,How do I deposit a check using my phone?,"To deposit a check with your phone, open the mobile app, select 'Deposit', take a clear photo of the front and back of the check, and enter the amount."
+stop_payment,Can I stop a payment?,"Yes, you can. You can issue a stop payment order by calling us or visiting a branch. Please have the check number and amount ready."
+loan_options,What loan options are available?,"We offer personal loans, auto loans, home equity loans, and mortgages."
+wire_transfer_fee,How much is a wire transfer?,The fee for a domestic wire transfer is $25 and for an international wire transfer is $45.
+lost_card_fee,Is there a fee to replace a lost card?,"Yes, there is a $10 fee to replace a lost or stolen card."
+account_history,Can you show me my account history?,You can view all your account history by logging into our online banking portal and navigating to the 'Statements & History' section.
+transfer_limit,What is the transfer limit?,"The standard daily transfer limit between accounts is $5,000."
+atm_cash_deposit,Can I deposit cash at an ATM?,"Yes, you can deposit cash at any of our deposit-taking ATMs. The funds are usually available immediately."
+online_banking_enrollment,How do I enroll in online banking?,"To enroll in online banking, go to our website, click 'Enroll Now', and follow the on-screen prompts to create your username and password."
+bill_pay_setup,How do I set up bill payments?,"To set up bill payments, log in to your account, select 'Bill Pay', and add the companies you wish to pay."
+loan_pre_approval,Can I get pre-approved for a loan?,"Yes, you can get pre-approved for a loan. You can apply for pre-approval on our website or by visiting a branch."
+international_transfer,Can I send money to another country?,"Yes, you can. To send money internationally, you must visit a branch in person and provide the recipient's full bank details."
+new_customer,"I am a new user, what are the first steps?",The first step is to open an account. You can do this on our website or at a branch.
+report_suspicious_activity,"I got a weird email from the bank, what should I do?",Please do not click any links in the email. Forward it to our security team at [Email Address] and then delete it.
+card_replacement,"My card is damaged, how can I get a new one?",You can order a replacement card through your online account or by calling customer service. Your new card will arrive in 7-10 business days.
+close_account,How do I cancel my account?,You can close your account by visiting a branch and submitting a signed request form.
+overdraft_protection_setup,Can I add overdraft protection to my account?,"Yes, you can add overdraft protection by signing up for a line of credit or linking another account."
+atm_fee,Is there a fee to use an ATM?,There is no fee for using our ATMs. You may be charged a fee by the owner of an out-of-network ATM.
+check_balance,Tell me my balance.,You can find your current balance on your online banking dashboard. Please log in to view it.
+transaction_history,Show me my transactions.,"To see your transaction history, please log in to your account and go to the 'Activity' tab."
+update_contact,I need to change my contact information.,"You can change your contact information by logging in to your account, going to 'Profile', and editing your details."
+wire_transfer_status,Where is my wire transfer?,You can check the status of a wire transfer by contacting our customer service and providing the transfer reference number.
+loan_payment,I want to pay my loan.,You can pay your loan on our website by going to the 'Loan Payments' section and entering your payment details.
+loan_rate_inquiry,What are your current mortgage rates?,Our current mortgage rates vary based on market conditions and your credit score. You can find the most recent rates on our website.
